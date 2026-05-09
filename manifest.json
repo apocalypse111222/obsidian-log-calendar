@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-log-calendar",
+  "name": "日志日历 Log Calendar",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "把多天内容写在一篇笔记里，日历自动索引每一天并显示内容预览",
+  "author": "Claude",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
