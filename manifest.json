@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-log-calendar",
+  "name": "Log Calendar",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Calendar that indexes date headings across your log notes — no daily note required.",
+  "author": "apocalypse111222",
+  "authorUrl": "https://github.com/apocalypse111222",
+  "isDesktopOnly": false
+}
